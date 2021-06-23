@@ -14,6 +14,7 @@ public class Math {
 
     public int divide(int a, int b) {
         //Add later
+        //We need to add more implementation for divide
         return 0;
     }
 }
