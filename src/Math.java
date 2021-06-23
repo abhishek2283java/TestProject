@@ -1,5 +1,6 @@
 public class Math {
     //Fix the add method later
+    //More comments by 2nd developer
     public int add(int a, int b) {
         return a - b;
     }
